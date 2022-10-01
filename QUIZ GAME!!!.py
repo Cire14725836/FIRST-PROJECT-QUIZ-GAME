@@ -107,7 +107,7 @@ if choice == "History" or choice == "history":
         print("So the correct answer was C")
 
 if choice == "Science" or choice == "science":
-    print("What animal currently has the longest tongue?")
+    print("What land animal currently has the longest tongue?")
 
     print("A: Giraffe")
     print("B: Chameleon")
