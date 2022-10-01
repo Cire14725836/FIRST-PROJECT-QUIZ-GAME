@@ -8,8 +8,8 @@ print(RED + "Hello Player lets play a game")
 name = input("But first Player what is you name?: ")
 print("")
 
-print("Well hello " + name + " nice to meet you")
-print("You will be playing 3 differnt games that test your luck, knowledge, and skill")
+print("Hello " + name + " nice to meet you")
+print("You will be playing 3 different games that test your luck, knowledge, and skill")
 print("I wish you the best of luck " + name)
 print(" ")
 
@@ -47,14 +47,14 @@ print(f"Your current score is {score}")
 print("")
 
 print(BLUE + "ROUND 2 ROCK,PAPER,SCISSORS")
-print(RED + "In this game we will play rock,paper,scissors in a best 2/3")
+print(RED + "In this game we will play Rock,Paper,Scissors in a best 2/3")
 print("Lets see if you can beat my perfect strategy")
 
 player_score = 0
 computer_score = 0
 
 while player_score != 2:
-    user_guess = input("OK " + name +" rock,paper,or scissors?: ")
+    user_guess = input("OK " + name +" Rock,Paper,or Scissors?: ")
 
     print("Computer played rock!")
 
