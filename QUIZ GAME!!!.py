@@ -138,7 +138,7 @@ elif score == 2:
     print("Not bad! Not just anyone can win my game!")
 elif score == 1:
     print("You got 1 out of 3 correct so you lose!")
-    print("My game is pretty hard! atleast you got a point tho.....")
+    print("My game is pretty hard! at least you got a point tho.....")
 else:
     print("YOU GOT NOTHING RIGHT!!!")
     print("Where you even trying or.....")
@@ -148,4 +148,4 @@ print(BLUE + "THANKS FOR PLAYING!!!")
 leave = "_"
 
 while leave not in ["Exit","exit"]:
-    leave = input("PLease type exit to leave: ")
+    leave = input("Please type exit to leave: ")
