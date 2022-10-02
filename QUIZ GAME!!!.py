@@ -141,7 +141,7 @@ elif score == 1:
     print("My game is pretty hard! at least you got a point tho.....")
 else:
     print("YOU GOT NOTHING RIGHT!!!")
-    print("Where you even trying or.....")
+    print("Did you even try or.....")
 
 print(BLUE + "THANKS FOR PLAYING!!!")
 
