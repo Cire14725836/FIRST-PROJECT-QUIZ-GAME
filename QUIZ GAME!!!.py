@@ -47,7 +47,7 @@ print(f"Your current score is {score}")
 print("")
 
 print(BLUE + "ROUND 2 ROCK,PAPER,SCISSORS")
-print(RED + "In this game we will play Rock,Paper,Scissors in a best 2/3")
+print(RED + "In this game we will play Rock,Paper,Scissors in a best of 3")
 print("Lets see if you can beat my perfect strategy")
 
 player_score = 0
