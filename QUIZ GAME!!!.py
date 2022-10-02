@@ -5,7 +5,7 @@ BLUE = '\033[34m'
 
 print(RED + "Hello Player lets play a game")
 
-name = input("But first Player what is you name?: ")
+name = input("But first Player what is your name?: ")
 print("")
 
 print("Hello " + name + " nice to meet you")
